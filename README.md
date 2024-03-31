@@ -137,19 +137,19 @@ https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A609.git
 
 -   카드 페이지
 
-    ![card](.image/card.gif){: width="1000" height="483"}
+    ![card](./image/card.gif){: width="1000" height="483"}
 
 -   퀴즈 페이지
 
-    ![quiz](.image/quiz.gif){: width="1000" height="483"}
+    ![quiz](./image/quiz.gif){: width="1000" height="483"}
 
 -   랭크 페이지
 
-    ![rank](.image/rank.gif){: width="1000" height="483"}
+    ![rank](./image/rank.gif){: width="1000" height="483"}
 
 -   마이 페이지
 
-    ![mypage](.image/mypage.gif){: width="1000" height="483"}
+    ![mypage](./image/mypage.gif){: width="1000" height="483"}
 
 <br>
 
