@@ -9,7 +9,7 @@ import { inject } from "vue";
 export function localAxios() {
   // 인스턴스 생성
   const instance = axios.create({
-    baseURL: "https://i10a609.p.ssafy.io/api", // 기본 URL 설정
+    baseURL: "", // 기본 URL 설정
     timeout: 5000, // 요청 시간 초과 설정
     headers: {
       "Content-Type": "application/json",
