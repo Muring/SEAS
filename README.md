@@ -8,7 +8,6 @@
 
 ## 📜 Index
 
-- [REPOSITORY](#repo)
 - [MEMBER](#member)
 - [SPECIFICATION](#specific)
 - [PROJECT OUTLINE](#outline)
@@ -21,9 +20,6 @@
 
 <a name="repo"></a>
 
-## 📚 Repository
-
-https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A609.git
 
 <br>
 
