@@ -8,7 +8,6 @@
 
 ## 📜 Index
 
-- [DEPLOY URL](#deploy)
 - [REPOSITORY](#repo)
 - [MEMBER](#member)
 - [SPECIFICATION](#specific)
@@ -19,12 +18,6 @@
 - [DISTRIBUTED ROLES](#roles)
 - [FUNCTION](#function)
 - [TECHNOLOGY](#technology)
-
-<a name="deploy"></a>
-
-## 🔗 Deploy URL
-
-### https://i10a609.p.ssafy.io
 
 <a name="repo"></a>
 
