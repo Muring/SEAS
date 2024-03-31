@@ -98,7 +98,7 @@ https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A609.git
 
 ## 🌐 System Architecture
 
-![image](/uploads/e7f82f6ae13ab1861d7da5d7f6d30220/image.png)
+![architecture](https://github.com/Muring/SEAS/assets/33271901/833458e3-38ab-4787-9e13-a9fd92d50bba)
 
 <br>
 
@@ -106,7 +106,7 @@ https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A609.git
 
 ## 💾 ERD
 
-![image](/uploads/274e414254692c85b64461763568a983/image.png)
+![erd](https://github.com/Muring/SEAS/assets/33271901/5af9660c-e212-47fa-82e5-0e67e2822fdf)
 
 <br>
 
@@ -125,31 +125,31 @@ https://lab.ssafy.com/s10-webmobile2-sub2/S10P12A609.git
 
 -   메인 페이지
 
-    ![메인페이지만](/uploads/e38e5130687245be64f596aaf301978c/메인페이지만.gif){: width="1000" height="483"}
+    ![main](https://github.com/Muring/SEAS/assets/33271901/f2c19fa8-d46a-418f-8731-3dfcdb375c22)
 
 -   메뉴 선택 페이지
 
-    ![선택_페이지만](/uploads/a13dee1d830147678c8e3fba7459b397/선택_페이지만.gif){: width="1000" height="483"}
+    ![menu](./image/menu.gif){: width="1000" height="483"}
 
 -   로그인 / 회원가입 페이지
 
-    ![auth관련](/uploads/44d82a68be6c682ca7e54b3079e2578e/auth관련.gif){: width="1000" height="483"}
+    ![login_signup](./image/login_signup.gif){: width="1000" height="483"}
 
 -   카드 페이지
 
-    ![카드](/uploads/62afcd19a0dff56c657ca70a33763c7a/카드.gif){: width="1000" height="483"}
+    ![card](.image/card.gif){: width="1000" height="483"}
 
 -   퀴즈 페이지
 
-    ![퀴즈1](/uploads/de495cb7b02f15aaf17e4532cfa9ca28/퀴즈1.gif){: width="1000" height="483"}
+    ![quiz](.image/quiz.gif){: width="1000" height="483"}
 
 -   랭크 페이지
 
-    ![랭킹페이지](/uploads/71d756abe1b3cd3d8f873de810f4e6c4/랭킹페이지.gif){: width="1000" height="483"}
+    ![rank](.image/rank.gif){: width="1000" height="483"}
 
 -   마이 페이지
 
-    ![마이페이지](/uploads/5ac55b25897ebf29315126b00697bc29/마이페이지.gif){: width="1000" height="483"}
+    ![mypage](.image/mypage.gif){: width="1000" height="483"}
 
 <br>
 
